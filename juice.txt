@@ -1,0 +1,11 @@
+1.karte no ventspils.reiss
+2.75% no gala versijas
+3.ko es varu pievienot kā praktisko daļu
+4.nav info ko aprakstīt?!?!?!?!
+5.video kā atsauces
+
+failu datu struktūras, uzstād''išanas, karti
+web serveris kas palaidīs datus (localhost - leaflet)
+google scholirde
+
+testa dati ar fragmentiem visā maršŗutā
